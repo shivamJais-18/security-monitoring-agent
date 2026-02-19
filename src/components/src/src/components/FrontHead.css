@@ -1,0 +1,41 @@
+.fronthead {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 32px;
+  background: linear-gradient(135deg, #0f172a, #020617);
+  color: #e5e7eb;
+  border-bottom: 1px solid #1e293b;
+}
+
+.left h1 {
+  font-size: 26px;
+  margin: 0;
+  color: #f8fafc;
+}
+
+.left p {
+  margin-top: 6px;
+  font-size: 14px;
+  color: #94a3b8;
+}
+
+.right {
+  text-align: right;
+}
+
+.status {
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.status.online {
+  color: #22c55e;
+  font-weight: 600;
+}
+
+.meta span {
+  display: block;
+  font-size: 13px;
+  color: #cbd5f5;
+}

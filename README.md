@@ -2,6 +2,13 @@
 
 A comprehensive security monitoring and threat detection system with real-time dashboard, automated threat analysis, and incident response orchestration.
 
+---
+
+## 👋 **NEW USER?** 
+
+### ⭐ **Start here: [START_HERE.md](START_HERE.md)** ⭐
+**3-step guide to get up and running in 5-15 minutes**
+
 ## 📊 Overview
 
 This platform provides:
@@ -303,9 +310,20 @@ curl -X POST http://localhost:8000/api/add-incident \
 
 ## 📚 Documentation
 
-- [MANUAL_DATA_GUIDE.md](MANUAL_DATA_GUIDE.md) - Manual data injection guide
-- [CUSTOM_DATA_PANEL_GUIDE.md](CUSTOM_DATA_PANEL_GUIDE.md) - Dashboard data panel guide
-- [data/raw_logs/DATASET_README.md](data/raw_logs/DATASET_README.md) - Dataset generation guide
+### 🗺️ Navigation
+- [DOCUMENTATION_MAP.md](DOCUMENTATION_MAP.md) - Choose the right guide for you
+- [DOCUMENTATION_INDEX.md](DOCUMENTATION_INDEX.md) - Complete list of all guides
+
+### Getting Started
+- [QUICK_REFERENCE.md](QUICK_REFERENCE.md) - ⚡ **Start here!** Fast cheat sheet (5 min read)
+- [ADD_AND_MONITOR_DATA_GUIDE.md](ADD_AND_MONITOR_DATA_GUIDE.md) - Complete workflow guide with test scenarios
+
+### Detailed Guides
+- [MANUAL_DATA_GUIDE.md](MANUAL_DATA_GUIDE.md) - CLI tool reference
+- [CUSTOM_DATA_PANEL_GUIDE.md](CUSTOM_DATA_PANEL_GUIDE.md) - Dashboard features explained
+- [data/raw_logs/DATASET_README.md](data/raw_logs/DATASET_README.md) - Dataset generation options
+- [LINKEDIN_GUIDE.md](LINKEDIN_GUIDE.md) - Share your project on social media
+- [GITHUB_UPLOAD_GUIDE.md](GITHUB_UPLOAD_GUIDE.md) - Deploy to GitHub
 
 ## 🧪 Testing
 

@@ -1,0 +1,12 @@
+{
+  "192.168.1.45": {
+    "reputation": "malicious",
+    "confidence": 0.92,
+    "source": "Simulated Abuse Feed"
+  },
+  "192.168.1.99": {
+    "reputation": "suspicious",
+    "confidence": 0.65,
+    "source": "Simulated Threat Intel"
+  }
+}

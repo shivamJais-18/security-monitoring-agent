@@ -1,0 +1,17 @@
+CRITICAL:
+  actions:
+    - block_ip
+    - isolate_system
+    - notify_soc
+    - generate_ticket
+
+HIGH:
+  actions:
+    - block_ip
+    - notify_soc
+    - generate_ticket
+
+MEDIUM:
+  actions:
+    - notify_soc
+    - log_event
